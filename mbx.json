@@ -1,5 +1,6 @@
 {
 
 	"name": "SysML Subsystem Model - Powertrain",
-	"description":"SysML model for powertrain Subsystem"
+	"description":"SysML model for powertrain Subsystem",
+	"repoURL":"https://github.com/ealexander22/SysML-Subsystem-Model-Powertrain.git"
 }
