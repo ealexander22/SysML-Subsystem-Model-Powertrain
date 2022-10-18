@@ -1,4 +1,7 @@
 {
 
-	"name": "SysML Subsystem Model - Powertrain"
+	"name": "SysML Subsystem Model - Powertrain",
+	"ASoT": "GVSC Teamwork Cloud",
+	"Domain":"Army",
+	"DA Type":"Digital Model"
 }
